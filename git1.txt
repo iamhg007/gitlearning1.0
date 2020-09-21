@@ -1,1 +1,2 @@
 Git 1 File to be added and staged
+Git 1 changes are one commit.
