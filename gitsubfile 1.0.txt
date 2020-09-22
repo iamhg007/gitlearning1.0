@@ -1,1 +1,2 @@
 Git Subfile created after cloning repositories.
+Git push new changes in the sub directory
